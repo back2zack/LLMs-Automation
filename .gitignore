@@ -1,0 +1,9 @@
+Ollama_venv/
+
+.env
+
+# Other common ignores (optional)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
