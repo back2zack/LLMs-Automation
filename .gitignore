@@ -1,5 +1,5 @@
 Ollama_venv/
-
+data/
 .env
 
 # Other common ignores (optional)
