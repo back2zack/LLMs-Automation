@@ -16,7 +16,8 @@ This repo is a hands-on collection of tools and prototypes focused on:
 | Script | Purpose |
 |--------|---------|
 | `pdf_rag.py` | End-to-end RAG pipeline: PDF ingestion → chunking → embedding → multi-query retrieval → question answering |
-| `olla_Jung.py` | Lightweight chatbot app powered by custom API (Streamlit frontend + REST backend) |
+`olla_Jung.py` | Streamlit-based chatbot that interacts with a local LLM persona ("Jung") via streaming REST API — designed for concise, psychology-inspired mentorship |
+
 
 > These tools showcase my ability to integrate **LLMs into automated pipelines**, using modern Python frameworks and embedding services for scalable knowledge extraction.
 
